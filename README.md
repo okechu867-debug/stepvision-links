@@ -34,5 +34,5 @@ This is the official **Linktree-style website** for **StepVisionStore.ng**, desi
 ## 📞 Connect With Us
 - **WhatsApp Business:** [Chat Now](https://wa.me/message/2348155471066)  
 - **TikTok:** [@stepvisionstore.ng](https://www.tiktok.com/@stepvisionstore.ng)  
-- **Instagram:** [@stepvisionstore.ng](https://www.instagram.com/stepvisionstore.ng)  
+- **Instagram:** [@shopstepvisionstore.ng](https://www.instagram.com/stepvisionstore.ng)  
 - **Website:** [www.stepvisionstore.ng](https://www.stepvisionstore.ng)
