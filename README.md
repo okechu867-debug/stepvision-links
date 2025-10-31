@@ -17,4 +17,20 @@ we inspire people to *walk their vision in style.*
 
 We specialize in:
 - 🥇 Original Sneakers & Footwear (Adidas, Timberland, Asics, etc.)  
--
+- 🛍️ Footwear Resale and Pre-orders  
+- 🎁 Limited Edition Drops and Promos  
+
+---
+
+## 🔗 Connect With Us
+- 💬 [WhatsApp Business](https://wa.me/message/GBT2DOUEETY2D1)  
+- 🎵 [TikTok](https://www.tiktok.com/@stepvisionstore?_t=ZS-90zkgrIIrmm&_r=1)  
+- 📸 [Instagram](https://www.instagram.com/shopstepvision.ng?igsh=MXAyZTljZDlpZjdpMA==)  
+- 🌐 [Website](https://www.stepvisionstore.ng)
+
+---
+
+## 🖤 Brand Tagline
+> “Walk Your Vision in Style.”
+
+© 2025 StepVisionStore.ng — All Rights Reserved.
