@@ -1,7 +1,7 @@
 # 🌟 StepVisionStore.ng — Linktree-Style Page
 
 **Walk Your Vision in Style.**  
-This is the official **Linktree-style website** for **StepVisionStore.ng**, designed to connect customers directly to all our key platforms — WhatsApp, TikTok, Instagram, and our official website — in one simple, elegant page.
+This is the official **Linktree-style website** for **StepVisionStore.ng**, designed to connect customers directly to all our key platforms — WhatsApp Business, TikTok, Instagram, and our official website — in one simple, elegant page.
 
 ---
 
@@ -9,8 +9,8 @@ This is the official **Linktree-style website** for **StepVisionStore.ng**, desi
 - 🖤 Modern black-and-gold theme matching our brand  
 - 📱 Mobile-friendly layout for smooth user experience  
 - 🔗 Direct links to all StepVisionStore.ng platforms  
-- 💬 One-click WhatsApp chat for instant communication  
-- 🖼️ Includes StepVisionStore.ng logo for brand identity  
+- 💬 One-click **WhatsApp Business** chat for instant customer connection  
+- 🖼️ Includes StepVisionStore.ng logo for strong brand identity  
 
 ---
 
@@ -32,7 +32,7 @@ This is the official **Linktree-style website** for **StepVisionStore.ng**, desi
 ---
 
 ## 📞 Connect With Us
-- **WhatsApp:** [Chat Now](https://wa.me/2348155471066)  
+- **WhatsApp Business:** [Chat Now](https://wa.me/message/2348155471066)  
 - **TikTok:** [@stepvisionstore.ng](https://www.tiktok.com/@stepvisionstore.ng)  
 - **Instagram:** [@stepvisionstore.ng](https://www.instagram.com/stepvisionstore.ng)  
 - **Website:** [www.stepvisionstore.ng](https://www.stepvisionstore.ng)
